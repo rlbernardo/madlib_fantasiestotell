@@ -33,7 +33,17 @@ def madlib1_divagando():
     pet = input('nome do seu pet: ')
     final = input('Quando vc assiste um filme, você prefere "um final trágico", "um final feliz" ou "Continua": ')
     print(
-        'Meu nome é' + nome + ', sou' + profissão_ou_ocupação + 'e gosto de' + hobbie1 + 'e' + hobbie2 + 'às vezes. Posso dizer com precisão que a minha vida é perfeita, mas sinto a necessidade de fazer algo a mais, algo como: ' + esporte_radical + 'ou' + algo_nojento + 'mas fico com' + sentimento_ruim + 'de sair me aventuranto e me esbarrar com o(a)' + personagem_fictício1 + 'e acabe tendo que aprender ' + disciplina_escolar + 'em' +lugar_no_mundo + 'ao som de' + banda_musical1 + 'usando apenas' + roupa_inutil + ', aí vou acabar desistindo antes mesmo de ter tentando me aventurar. Mas quer saber, eu vou' + cdca + 'muito, mas talvez eu me arrependa, porém vai valer a pena quando eu sair por ai e poder usufrui de toda a minha' + eco_her_ven + ' que adquiri no ' + ato1 + 'depois que eu' + ato2 + 'da' + figura_pub_fem + 'enquanto ela fazia algo vergonhoso que eu não posso mencionar, mas foi engraçado. Portanto, irei comprar as minhas passagens para ir de ' + escolha1 + 'viver com a tribo que batizei de ' + pet + 'e isso é um ' + final +
-    )
+        'Meu nome é'
+        + nome + ', sou' + profissão_ou_ocupação +
+        'e gosto de' + hobbie1 + 'e' + hobbie2 +
+        'às vezes. Posso dizer com precisão que a minha vida é perfeita, mas sinto a necessidade de fazer algo a mais, algo como: '
+        + esporte_radical + 'ou' + algo_nojento + 'mas fico com' + sentimento_ruim + 'de sair me aventuranto e me esbarrar com o(a)'
+        + personagem_fictício1 + 'e acabe tendo que aprender ' + disciplina_escolar + 'em' +lugar_no_mundo + 'ao som de'
+        + banda_musical1 + 'usando apenas' + roupa_inutil +
+        ', aí vou acabar desistindo antes mesmo de ter tentando me aventurar. Mas quer saber, eu vou' + cdca +
+        'muito, mas talvez eu me arrependa, porém vai valer a pena quando eu sair por ai e poder usufrui de toda a minha'
+        + eco_her_ven + ' que adquiri no ' + ato1 + 'depois que eu' + ato2 + 'da' + figura_pub_fem +
+        'enquanto ela fazia algo vergonhoso que eu não posso mencionar, mas foi engraçado. Portanto, irei comprar as minhas passagens para ir de '
+        + escolha1 + 'viver com a tribo que batizei de ' + pet + 'e isso é um ' + final + '.')
 
 root.mainloop()
