@@ -7,7 +7,7 @@
 </p>
 
 ## 📖 About
-<p>***********</p>
+<p>A project based on receiving data from the user, where f-strings are used, generating outputs that are printed to the console, using the standard python interface "tkinter" to use interactable buttons with story titles for the user to interact with.</p>
 
 ---
 
@@ -25,8 +25,8 @@ git clone https://github.com/rlbernardo/madlib_fantasiestotell.git
 `cd madlib_fantasiestotell`
 
 #### Run the code
-- right click on the `index.html` file
-- click on `open with liveserver`
+- right click on the `madlib1.py` file
+- click on `open with pycharm`
 
 ---
 <p align = "right">Developed with :green_heart: by Roberta L. B. Cruz</p>
